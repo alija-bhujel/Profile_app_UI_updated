@@ -108,7 +108,7 @@ class _HomepageState extends State<Homepage> {
                     const SizedBox(
                       height: 30,
                     ),
-                    SocialmediaList(),
+                    const SocialmediaList(),
                     const SizedBox(
                       height: 18,
                     ),

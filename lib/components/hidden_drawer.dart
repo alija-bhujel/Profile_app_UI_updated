@@ -28,7 +28,7 @@ class _HiddenDrawerState extends State<HiddenDrawer> {
   @override
   Widget build(BuildContext context) {
     return HiddenDrawerMenu(
-      backgroundColorMenu: Colors.blueGrey,
+      backgroundColorMenu: Colors.white,
       screens: _pages,
       initPositionSelected: 0,
       backgroundColorAppBar: Color.fromARGB(255, 214, 176, 3),
