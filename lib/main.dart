@@ -1,7 +1,6 @@
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:myprofile/components/hidden_drawer.dart';
-// import 'package:myprofile/pages/Homepage.dart';
 
 import 'package:myprofile/pages/splashscreen.dart';
 
